@@ -1,1 +1,1 @@
-- Hi, I’m Pranjal!
+- Hi, I’m Pranjal! I work at Amazon as a software engineer. 
